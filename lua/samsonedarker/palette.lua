@@ -45,7 +45,7 @@ local colors = {
   blue_bg = "#2e3947",
   purple_bg = "#383445",
   yellow_bg = "#3b3b3b",
-  comment_grey_bg = "#2d323a",
+  comment_grey_bg = "#1d2126",
 }
 
 return colors
