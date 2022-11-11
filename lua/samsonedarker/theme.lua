@@ -128,7 +128,7 @@ theme.set_highlights = function()
   hl(0, "Statement", { fg = c.purple, bg = c.purple_bg })
   hl(0, "Identifier", { fg = c.fg, bg = "NONE" })
   hl(0, "PreCondit", { fg = c.purple, bg = "NONE" })
-  hl(0, "Special", { fg = c.orange, bg = c.blue_bg })
+  hl(0, "Special", { fg = c.blue, bg = c.blue_bg })
 
   -- Treesitter
   hl(0, "TSComment", { link = "Comment" })
