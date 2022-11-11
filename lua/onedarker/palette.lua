@@ -42,6 +42,10 @@ local colors = {
   ui_orange = "#E8AB53",
   ui2_orange = "#613214",
   ui_purple = "#B180D7",
+  blue_bg = "#2e3947",
+  purple_bg = "#383445",
+  yellow_bg = "#3b3b3b",
+  comment_grey_bg = "#2d323a",
 }
 
 return colors
