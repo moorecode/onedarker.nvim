@@ -1,5 +1,5 @@
 local M = {}
-local theme = require('onedarker.theme')
+local theme = require('samsonedarker.theme')
 
 M.setup = function()
   vim.cmd('hi clear')

@@ -18,6 +18,6 @@ use "lunarvim/Onedarker.nvim"
 ## Activate
 
 ```lua
-vim.cmd("colorscheme onedarker")
+vim.cmd("colorscheme samsonedarker")
 ```
 
