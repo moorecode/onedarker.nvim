@@ -10,7 +10,7 @@ M.setup = function()
   end
 
   vim.o.termguicolors = true
-  vim.g.colors_name = 'onedarker'
+  vim.g.colors_name = 'samsonedarker'
 
   theme.set_highlights()
 end
